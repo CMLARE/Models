@@ -10,6 +10,8 @@
 # In[ ]:
 
 
-def get_results():
-    print("")
+import pandas as pd
+
+a_b_coefficients = pd.read_csv("")
+data_file = pd.read_csv("")
 
